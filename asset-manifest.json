@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7d44680e.chunk.css",
+    "main.js": "/static/js/main.dac48880.chunk.js",
+    "main.js.map": "/static/js/main.dac48880.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.80ee1e65.js",
+    "runtime-main.js.map": "/static/js/runtime-main.80ee1e65.js.map",
+    "static/js/2.7200365d.chunk.js": "/static/js/2.7200365d.chunk.js",
+    "static/js/2.7200365d.chunk.js.map": "/static/js/2.7200365d.chunk.js.map",
+    "static/js/3.743baade.chunk.js": "/static/js/3.743baade.chunk.js",
+    "static/js/3.743baade.chunk.js.map": "/static/js/3.743baade.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.7d44680e.chunk.css.map": "/static/css/main.7d44680e.chunk.css.map",
+    "static/js/2.7200365d.chunk.js.LICENSE.txt": "/static/js/2.7200365d.chunk.js.LICENSE.txt",
+    "static/media/styles.scss": "/static/media/mountains_front.25a10186.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.80ee1e65.js",
+    "static/js/2.7200365d.chunk.js",
+    "static/css/main.7d44680e.chunk.css",
+    "static/js/main.dac48880.chunk.js"
+  ]
+}
